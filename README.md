@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mysimplecompendium is to ...
+The goal of mysimplecompendium is to test continuous integration and unit tests on 2 simple functions.
 
 ## Installation
 
