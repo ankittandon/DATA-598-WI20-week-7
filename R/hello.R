@@ -13,6 +13,33 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+#' Title
+#'
+#' @return
+#' @export
+#'
+#' @examples
 hello <- function() {
   print("Hello, world!")
+}
+
+
+#' Title
+#'
+#' @return
+#' @export
+#'
+#' @examples
+plusnine <- function(x) {
+  return (x+9)
+}
+
+#' Title
+#'
+#' @return
+#' @export
+#'
+#' @examples
+minusthree <- function(x) {
+  return (x-3)
 }
