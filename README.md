@@ -1,7 +1,7 @@
-
 # mysimplecompendium
 
 <!-- badges: start -->
+[![R build status](https://github.com/ankittandon/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/ankittandon/DATA-598-WI20-week-7/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompendium is to test continuous integration and unit tests on 2 simple functions.
